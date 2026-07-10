@@ -1,0 +1,42 @@
+|series                     | issue| year|month      | triangle_number| cost|signed |graded |authors                                                |story_arc             |need |
+|:--------------------------|-----:|----:|:----------|---------------:|----:|:------|:------|:------------------------------------------------------|:---------------------|:----|
+|The Adventures of Superman |   505| 1993|Oct        |              31| 2.50|no     |no     |Kesel Grummet & Hazlewood                              |Superman Returns      |no   |
+|Superman                   |    82| 1993|Oct        |              30| 3.50|no     |no     |Jurgens & Breeding                                     |Reign of the Supermen |no   |
+|Superman The Man of Steel  |    26| 1993|Oct        |              29| 1.50|no     |9.8    |L Simonson Bogdanove & Janke                           |Reign of the Supermen |no   |
+|Superman in Action Comics  |   691| 1993|Sept       |              28| 1.50|no     |no     |Stern Guice Rodier                                     |Reign of the Supermen |no   |
+|The Adventures of Superman |   504| 1993|Sept       |              27| 1.50|no     |no     |Kesel Grummet & Hazlewood                              |Reign of the Supermen |no   |
+|Superman                   |    81| 1993|Sept       |              26| 1.50|no     |no     |Jurgens & Breeding                                     |Reign of the Supermen |no   |
+|Superman The Man of Steel  |    25| 1993|Sept       |              25| 1.50|no     |no     |L Simonson Bogdanove & Janke                           |Reign of the Supermen |no   |
+|Superman in Action Comics  |   690| 1993|Aug        |              24| 1.50|no     |no     |Stern Guice Rodier                                     |Reign of the Supermen |no   |
+|The Adventures of Superman |   503| 1993|Aug        |              23| 1.50|no     |no     |Kesel Grummet & Hazlewood                              |Reign of the Supermen |no   |
+|Superman                   |    80| 1993|Aug        |              22| 1.50|no     |no     |Jurgens & Breeding                                     |Reign of the Supermen |no   |
+|Superman The Man of Steel  |    24| 1993|Aug        |              21| 1.50|no     |no     |L Simonson Bogdanove & Janke                           |Reign of the Supermen |no   |
+|Superman in Action Comics  |   689| 1993|Late July  |              20| 1.50|no     |no     |Stern Guice Rodier                                     |Reign of the Supermen |no   |
+|The Adventures of Superman |   502| 1993|Jul        |              19| 1.50|no     |no     |Kesel Grummet & Hazlewood                              |Reign of the Supermen |no   |
+|Superman                   |    79| 1993|Jul        |              18| 1.50|yes    |no     |Jurgens & Breeding                                     |Reign of the Supermen |no   |
+|Superman The Man of Steel  |    23| 1993|Jul        |              17| 1.50|no     |no     |L Simonson Bogdanove & Janke                           |Reign of the Supermen |no   |
+|Superman in Action Comics  |   688| 1993|Early July |              16| 1.50|no     |no     |Stern Guice Rodier                                     |Reign of the Supermen |no   |
+|The Adventures of Superman |   501| 1993|Late June  |              15| 1.95|no     |no     |Kesel Grummet & Hazlewood                              |Reign of the Supermen |no   |
+|Superman                   |    78| 1993|Jun        |              14| 1.95|no     |no     |Jurgens & Breeding                                     |Reign of the Supermen |no   |
+|Superman The Man of Steel  |    22| 1993|Jun        |              13| 1.50|no     |no     |L Simonson Bogdanove & Janke                           |Reign of the Supermen |no   |
+|Superman in Action Comics  |   687| 1993|Jun        |              12| 1.95|no     |no     |Stern Guice Rodier                                     |Reign of the Supermen |no   |
+|The Adventures of Superman |   500| 1993|Early June |              11| 2.95|no     |no     |Ordway Grummett Hazlewood and the entire superman team |Funeral for a Friend  |no   |
+|Superman                   |    77| 1993|Mar        |              10| 1.25|no     |no     |Jurgens & Breeding                                     |Funeral for a Friend  |no   |
+|Superman The Man of Steel  |    21| 1993|Mar        |               9| 1.25|no     |no     |L Simonson Bogdanove & Janke                           |Funeral for a Friend  |no   |
+|Supergirl in Action Comics |   686| 1993|Feb        |               8| 1.25|no     |no     |Stern Guice Rodier                                     |Funeral for a Friend  |no   |
+|The Adventures of Superman |   499| 1993|Feb        |               7| 1.25|no     |no     |Ordway Grummett Hazlewood                              |Funeral for a Friend  |no   |
+|Superman                   |    76| 1993|Feb        |               6| 1.25|yes    |no     |Jurgens & Breeding                                     |Funeral for a Friend  |no   |
+|Superman The Man of Steel  |    20| 1993|Feb        |               5| 1.25|no     |no     |L Simonson Bogdanove & Janke                           |Funeral for a Friend  |no   |
+|Supergirl in Action Comics |   685| 1993|Jan        |               4| 1.25|no     |no     |Stern Guice Rodier                                     |Funeral for a Friend  |no   |
+|The Adventures of Superman |   498| 1993|Jan        |               3| 1.25|no     |no     |Ordway Grummett Hazelwood                              |Funeral for a Friend  |no   |
+|Superman                   |    75| 1993|Jan        |               2| 1.25|yes    |no     |Jurgens & Breeding                                     |Death of Superman     |no   |
+|Superman The Man of Steel  |    19| 1993|Jan        |               1| 1.25|no     |no     |L Simonson Bogdanove & Janke                           |Doomsday              |no   |
+|Superman in Action Comics  |   684| 1992|Dec        |              48| 1.25|no     |no     |Stern Guice Rodier                                     |Doomsday              |no   |
+|The Adventures of Superman |   497| 1992|Dec        |              47| 1.25|no     |no     |Ordway Grummett Hazlewood                              |Doomsday              |no   |
+|Superman                   |    74| 1992|Dec        |              46| 1.25|no     |no     |Jurgens & Breeding                                     |Doomsday              |no   |
+|Justice League of America  |    69| 1992|Dec        |               0| 1.25|no     |no     |Jurgens & Burchett                                     |Doomsday              |no   |
+|Superman The Man of Steel  |    18| 1992|Dec        |              45| 1.25|no     |no     |L Simonson Bogdanove & Janke                           |Doomsday              |no   |
+|Superman in Action Comics  |   683| 1992|Nov        |              44| 1.25|no     |9.8    |Stern Guice Rodier                                     |Doomsday Prelude      |no   |
+|The Adventures of Superman |   496| 1992|Nov        |              43| 1.25|no     |no     |Ordway & Janke                                         |Doomsday Prelude      |yes  |
+|Superman                   |    73| 1992|Nov        |              42| 1.25|no     |no     |Jurgens & Breeding                                     |Doomsday Prelude      |yes  |
+|Superman The Man of Steel  |    17| 1992|Nov        |              41| 1.25|no     |no     |L Simonson Bogdanove & Janke                           |Doomsday Prelude      |no   |
